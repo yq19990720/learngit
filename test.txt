@@ -1,4 +1,5 @@
-测试修改101bug
+测试连接远程git仓库
 Creating a new branch is quick.
 Creating a new branch is quick and simple.
 测试分支禁用Fast forward
+测试合并过程中未完成dev上的工作，但需修复bug
